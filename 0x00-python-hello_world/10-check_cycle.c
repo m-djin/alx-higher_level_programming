@@ -3,7 +3,6 @@
 /**
  * check_cycle - check if a linked list contains a cycle
  * @list: linked list to check
- *
  * Return: 1 if list has a cycle or 0 otherwise
  */
 
