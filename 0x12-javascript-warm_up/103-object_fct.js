@@ -13,4 +13,4 @@ console.log(myObject);
 myObject.incr();
 console.log(myObject);
 myObject.incr();
-console.log(myobject);
+console.log(myObject);
